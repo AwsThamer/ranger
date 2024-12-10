@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276344272249",
+    "project_id": "projectb-3aca4",
+    "storage_bucket": "projectb-3aca4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276344272249:android:e3c12a0298176e641d2ba8",
+        "android_client_info": {
+          "package_name": "com.example.ranger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBazYCzsF3ejULomJjfB9PFnyzmnjuepdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
